@@ -1,6 +1,9 @@
 # OBS-Countdown
 It's literally a countdown timer lol
 
+## Download Executable
+[Here](https://www.dropbox.com/s/5hmy12v1mr274pz/obs_countdown.exe?dl=1) is a direct download of the tool as an Executable.
+
 ## Installation
 This requires Python 3.7 or higher.
 Make sure you also have the Python module `psutil`.
